@@ -29,7 +29,7 @@ class Pokemon
     end
   end
 
-  def BONUS
+  def alter_hp(new_health, db)
 
   end
 end
