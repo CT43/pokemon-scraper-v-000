@@ -1,5 +1,5 @@
 class Pokemon
-  attr_accessor :id, :name, :type, :db
+  attr_accessor :id, :name, :type, :db, :hp
 
   @@all = []
 
@@ -28,7 +28,7 @@ class Pokemon
     end
   end
 
-  def BONUS 
+  def BONUS
 
-  end 
+  end
 end
