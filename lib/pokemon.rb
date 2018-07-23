@@ -26,10 +26,5 @@ class Pokemon
         return pokemon
       end
     end
-
   end
-
-
-
-
 end
