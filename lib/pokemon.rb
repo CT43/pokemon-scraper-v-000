@@ -27,4 +27,8 @@ class Pokemon
       end
     end
   end
+
+  def BONUS 
+
+  end 
 end
