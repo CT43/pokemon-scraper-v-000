@@ -30,6 +30,7 @@ class Pokemon
   end
 
   def alter_hp(new_health, db)
+    @hp = new_health
 
   end
 end
